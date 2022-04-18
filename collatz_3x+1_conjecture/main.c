@@ -12,3 +12,6 @@
     printllhex(collatz(0x16));      // seed: 0x16
     return 0;
 }
+
+// a health behavior is approaching to be adaptive;
+// a illness behavior is approaching to be dis-adaptive;
